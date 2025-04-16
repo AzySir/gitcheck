@@ -27,7 +27,8 @@ make build
 Deploy/Install code: This iwll move the code to /usr/local/bin/gitcheck. If you want to change the destination change it in the Makefile
 
 ```
-  make depoy
+make deploy
+
 ```
 
 test: This will run golang unit tests and provide a coverage
