@@ -1,0 +1,10 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#043611",
+    "titleBar.activeBackground": "#064B17",
+    "titleBar.activeForeground": "#EFFEF3"
+  },
+  "files.exclude": {
+    "**/.git": false
+  }
+}
